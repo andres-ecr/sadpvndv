@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres Carrasco</h1>
 <h3 align="center">A passionate frontend engineer</h3>
 
-- 🔭 I’m currently working on **Bookr Co.**
+- 🔭 I’m currently working at **Bookr Co.**
 
 - 🌱 I’m currently learning **Node.js**
 
