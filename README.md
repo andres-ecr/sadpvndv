@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **andreseloy08@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/sadpvndv/resume/raw/main/Andres%20Carrasco%20CV.pdf](https://github.com/sadpvndv/resume/raw/main/Andres%20Carrasco%20CV.pdf)
+- 📄 Know about my experiences <a href="https://github.com/sadpvndv/resume/raw/main/Andres%20Carrasco%20CV.pdf">[Download resume]</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
